@@ -1,0 +1,19 @@
+Prompt ChatGpt
+Bom dia. Vamos conversar em português. Quero fazer um artigo técnico utilizando seus conhecimentos. O assunto é """prompts para chatgpt""". Quero que o artigo tenha como foco o uso das melhores técnicas de elaboração de prompts assertivos.
+
+Prompts Gemini
+A partir de agora eu quero formatar um artigo técnico para publicação no site dio.me. Vou lhe paasar o artigo e quero que você faça uma revisão. ==Prompts para ChatGPT: Técnicas para Elaboração de Prompts Assertivos.
+...
+Implemente as melhorias que você sugeriu.
+
+
+Faça um README para o seguinte artigo: """ELABORAÇÃO DE PROMPTS ASSERTIVOS PARA CHATGPT"""
+...
+Resuma esse README.
+...
+Resuma mais.
+
+
+
+
+ 
